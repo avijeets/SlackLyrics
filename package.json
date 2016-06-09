@@ -1,0 +1,27 @@
+{
+  "name": "slacklyrics",
+  "version": "1.0.0",
+  "description": "Slack bot that returns corresponding links to your /lyrics command",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avijeets/SlackLyrics.git"
+  },
+  "keywords": [
+    "Slack",
+    "Bot",
+    "Genius",
+    "Lyrics"
+  ],
+  "author": "Avijeet Sachdev",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/avijeets/SlackLyrics/issues"
+  },
+  "homepage": "https://github.com/avijeets/SlackLyrics#readme"
+}
