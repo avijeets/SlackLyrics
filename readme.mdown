@@ -1,0 +1,9 @@
+SlackLyrics
+----
+
+Ever want to know the lyrics of a song someone quotes in Slack? 
+
+Thanks to [@mager](http://github.com/mager) and [his explanation](https://mager.co/how-to-write-a-slackbot-in-40-lines-of-code-52cf0c4fcf42#.7gw4cel9r), it was easy to satisfy this curosity. With this simple node.js app using express and the Genius API, you can set up the Slack command /lyrics.
+
+For example:
+`/lyrics "White Dress"` will yield you a link to the Genius page for the first result of a Genius search.
